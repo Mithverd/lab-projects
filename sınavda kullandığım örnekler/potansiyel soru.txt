@@ -1,0 +1,7 @@
+statik bağlama
+eğer birden fazla amaca hizmet eden fonk hangi fonk bağlanıcağını derleme zamanında,
+karar veriyorsa(derleme zamanı)
+
+dinamik bağlama
+exe de girdiğimiz verilere göre çalışırken değişmesi gerekiyorsa dinamik bağlama
+(çalışma zamanı)
